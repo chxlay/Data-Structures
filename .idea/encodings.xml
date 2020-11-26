@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/src/main/java/deginpattern/composite/Test.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/deginpattern/facade/DVDPlay.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/deginpattern/facade/HomeTheaterFacade.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/deginpattern/facade/Popcorn.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/deginpattern/facade/Projector.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/deginpattern/facade/Screen.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/deginpattern/facade/Stereo.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/deginpattern/facade/TheaterLight.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/deginpattern/flyweight/Client.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/deginpattern/flyweight/ConcreteWebSite.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/deginpattern/flyweight/FlyWeight.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/deginpattern/flyweight/User.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/deginpattern/flyweight/WebSite.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/deginpattern/flyweight/WebSiteFactory.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/deginpattern/proxy/cglib/CglibProxyFactory.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/deginpattern/proxy/cglib/Client.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/deginpattern/proxy/cglib/Teacher.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/deginpattern/proxy/dynproxy/Client.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/deginpattern/proxy/dynproxy/ITeacherDao.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/deginpattern/proxy/dynproxy/ProxyFactory.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/deginpattern/proxy/dynproxy/Teacher.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/deginpattern/proxy/staticproxy/Client.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/deginpattern/proxy/staticproxy/ITeacherDao.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/deginpattern/proxy/staticproxy/Teacher.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/deginpattern/proxy/staticproxy/TeacherDaoProxy.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/juc/Client.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/juc/MyThread.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/juc/TestAlternate.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/juc/TestCompareAndSwap.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/juc/TestCopyOnWriteArrayList.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/juc/TestCountDownLatch.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/juc/TestForkJoinPool.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/juc/TestLock.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/juc/TestProductorAndConsumer.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/juc/TestReadWriteLock.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/juc/TestScheduledThreadPool.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/juc/TestThread8Moniter.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/juc/TestThreadPool.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/juc/ThreadDemo.java" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
